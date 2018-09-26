@@ -20,7 +20,7 @@ public class Test1
 		Thread.sleep(5000);
 		driver.findElement(By.name("q")).sendKeys("abdul kalam");
 		driver.close();
-		System.out.println("Test Start");
+		System.out.println("Test End");
 	}
 
 }
